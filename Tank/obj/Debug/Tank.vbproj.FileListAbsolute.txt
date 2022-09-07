@@ -1,0 +1,49 @@
+C:\Users\felicita\AppData\Local\Temporary Projects\Tank\bin\Debug\Tank.exe
+C:\Users\felicita\AppData\Local\Temporary Projects\Tank\bin\Debug\Tank.pdb
+C:\Users\felicita\AppData\Local\Temporary Projects\Tank\bin\Debug\Tank.xml
+C:\Users\felicita\AppData\Local\Temporary Projects\Tank\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\felicita\AppData\Local\Temporary Projects\Tank\obj\Debug\Tank.Form1.resources
+C:\Users\felicita\AppData\Local\Temporary Projects\Tank\obj\Debug\Tank.Resources.resources
+C:\Users\felicita\AppData\Local\Temporary Projects\Tank\obj\Debug\Tank.vbproj.GenerateResource.Cache
+C:\Users\felicita\AppData\Local\Temporary Projects\Tank\obj\Debug\Tank.exe
+C:\Users\felicita\AppData\Local\Temporary Projects\Tank\obj\Debug\Tank.xml
+C:\Users\felicita\AppData\Local\Temporary Projects\Tank\obj\Debug\Tank.pdb
+C:\Users\felicita\Documents\Visual Studio 2008\Projects\Tank\Tank\obj\Debug\Tank.exe
+C:\Users\felicita\Documents\Visual Studio 2008\Projects\Tank\Tank\obj\Debug\Tank.xml
+C:\Users\felicita\Documents\Visual Studio 2008\Projects\Tank\Tank\obj\Debug\Tank.pdb
+C:\Users\felicita\Documents\Visual Studio 2008\Projects\Tank\Tank\bin\Debug\Tank.exe
+C:\Users\felicita\Documents\Visual Studio 2008\Projects\Tank\Tank\bin\Debug\Tank.pdb
+C:\Users\felicita\Documents\Visual Studio 2008\Projects\Tank\Tank\bin\Debug\Tank.xml
+C:\Users\felicita\Documents\Visual Studio 2008\Projects\Tank\Tank\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\felicita\Documents\Visual Studio 2008\Projects\Tank\Tank\obj\Debug\Tank.Form1.resources
+C:\Users\felicita\Documents\Visual Studio 2008\Projects\Tank\Tank\obj\Debug\Tank.Resources.resources
+C:\Users\felicita\Documents\Visual Studio 2008\Projects\Tank\Tank\obj\Debug\Tank.vbproj.GenerateResource.Cache
+F:\Tank\Tank\obj\Debug\Tank.exe
+F:\Tank\Tank\obj\Debug\Tank.xml
+F:\Tank\Tank\obj\Debug\Tank.pdb
+F:\Tank\Tank\bin\Debug\Tank.exe
+F:\Tank\Tank\bin\Debug\Tank.pdb
+F:\Tank\Tank\bin\Debug\Tank.xml
+F:\Tank\Tank\obj\Debug\Tank.Form1.resources
+F:\Tank\Tank\obj\Debug\Tank.Resources.resources
+F:\Tank\Tank\obj\Debug\Tank.vbproj.GenerateResource.Cache
+J:\Tank\Tank\obj\Debug\Tank.exe
+J:\Tank\Tank\obj\Debug\Tank.xml
+J:\Tank\Tank\obj\Debug\Tank.pdb
+J:\Tank\Tank\bin\Debug\Tank.exe
+J:\Tank\Tank\bin\Debug\Tank.pdb
+J:\Tank\Tank\bin\Debug\Tank.xml
+J:\Tank\Tank\obj\Debug\Tank.Form1.resources
+J:\Tank\Tank\obj\Debug\Tank.Resources.resources
+J:\Tank\Tank\obj\Debug\Tank.vbproj.GenerateResource.Cache
+F:\Tank\Tank\obj\Debug\Tank.vbprojResolveAssemblyReference.cache
+F:\Tanks\Tank\Tank\bin\Debug\Tank.exe
+F:\Tanks\Tank\Tank\bin\Debug\Tank.pdb
+F:\Tanks\Tank\Tank\bin\Debug\Tank.xml
+F:\Tanks\Tank\Tank\obj\Debug\Tank.Form1.resources
+F:\Tanks\Tank\Tank\obj\Debug\Tank.Resources.resources
+F:\Tanks\Tank\Tank\obj\Debug\Tank.vbproj.GenerateResource.Cache
+F:\Tanks\Tank\Tank\obj\Debug\Tank.exe
+F:\Tanks\Tank\Tank\obj\Debug\Tank.xml
+F:\Tanks\Tank\Tank\obj\Debug\Tank.pdb
+F:\Tanks\Tank\Tank\obj\Debug\Tank.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+F:\Tanks\Tank\Tank\bin\x64\Debug\Tank.exe
+F:\Tanks\Tank\Tank\bin\x64\Debug\Tank.pdb
+F:\Tanks\Tank\Tank\bin\x64\Debug\Tank.xml
+F:\Tanks\Tank\Tank\obj\x64\Debug\Tank.vbprojResolveAssemblyReference.cache
+F:\Tanks\Tank\Tank\obj\x64\Debug\Tank.Form1.resources
+F:\Tanks\Tank\Tank\obj\x64\Debug\Tank.Resources.resources
+F:\Tanks\Tank\Tank\obj\x64\Debug\Tank.vbproj.GenerateResource.Cache
+F:\Tanks\Tank\Tank\obj\x64\Debug\Tank.exe
+F:\Tanks\Tank\Tank\obj\x64\Debug\Tank.xml
+F:\Tanks\Tank\Tank\obj\x64\Debug\Tank.pdb
